@@ -1,5 +1,5 @@
 def upper_func(word):
     """
-    Function returns string with all capital letters
+    New desciption
     """
     return word.upper()
